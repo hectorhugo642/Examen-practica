@@ -22,3 +22,4 @@ if(promedio <= 60):
     print("Y si esta reprobado no mentia :(")
 else:
     print("Y el alumno esta aprobado :D")
+    
